@@ -1,5 +1,5 @@
 # Final-project-with-Adaptive-Beamforming
-## Course about Adaptive Signal Processing in NTU(National Taiwan University)
+## Course about Adaptive Signal Processing in NTU (National Taiwan University)
 ###### Advisor: Chun-Lin Liu
 ###### Author: Chen-Yang Ma
 
